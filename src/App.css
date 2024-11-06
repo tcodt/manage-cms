@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "myFont";
+  src: url("/fonts/IranSansX(Pro)/Farsi numerals/IRANSansXFaNum-DemiBold.ttf");
+}
+
+body {
+  font-family: "myFont" !important;
+  background-color: #fafaf4;
+}
